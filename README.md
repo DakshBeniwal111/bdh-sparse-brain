@@ -20,7 +20,7 @@ The single question this project answers:
 
 We answer it six ways — each tab a different window into BDH's internals.
 
-### 👉 [Live Demo — huggingface.co/spaces/DakshBeniwal111/bdh-sparse-brain](https://huggingface.co/spaces/DakshBeniwal111/bdh-sparse-brain)
+### 👉 [Live Demo — huggingface.co/spaces/DakshBeniwal111/bdh-sparse-brain](https://huggingface.co/spaces/DakshBeniwal111/bdh_part2)
 
 ---
 
