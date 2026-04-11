@@ -274,6 +274,7 @@ bdh-sparse-brain/
 ## 👥 Team
 
 **Daksh Beniwal** — IIT Ropar  
+**Priya Kyal** — IIT Ropar  
 HuggingFace: [DakshBeniwal111](https://huggingface.co/DakshBeniwal111)  
 GitHub: [DakshBeniwal111](https://github.com/DakshBeniwal111)
 
